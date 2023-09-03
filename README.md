@@ -4,7 +4,7 @@
 
 This repository contains a machine learning project aimed at predicting whether passengers on the Spaceship would be transported to their destination in another dimension. The project utilizes a dataset consisting of personal records of passengers, with 13 variables including passenger information, cabin details, amenities usage, and more.
 
-The primary goal of this project is to develop a predictive model using XGBoost, a powerful gradient boosting algorithm, to determine whether a passenger would be transported to another dimension during the voyage. The model was trained on a substantial portion of the dataset, and its performance has been evaluated using systematic data preprocessing, hyperparameter tuning, and cross-validation techniques.
+The primary goal of this project is to develop predictive models using various machine learning algorithms, including logistic regression, k-nearest neighbors (KNN), decision trees with random forests, and boosting techniques. These models aim to determine whether a passenger would be transported to another dimension during the voyage. Each algorithm was trained on a substantial portion of the dataset, and their performances have been evaluated through systematic data preprocessing, hyperparameter tuning, and cross-validation techniques.
 
 ## Dataset
 
@@ -22,7 +22,7 @@ The project is organized as follows:
 
 - **presentation slides**:
 
-We have prepared a set of PowerPoint (PPT) slides for our group presentation on this project, which was delivered during the Data Science Programming class in summer 2023. You can access the presentation slides using the following link: - [Presentation Slides (PPT)]((https://github.com/lisahyuniko/spaceship-prediction/blob/main/ML_Spaceship_Titanic_Project%20Slides.pdf))
+We have prepared a set of PowerPoint (PPT) slides for our group presentation on this project, which was delivered during the Data Science Programming class in summer 2023. You can access the presentation slides using the following link: - [Presentation Slides (PPT)](https://github.com/lisahyuniko/spaceship-prediction/blob/main/ML_Spaceship_Titanic_Project%20Slides.pdf)
 
 Feel free to review the slides for a more detailed overview of our project and findings.
 
