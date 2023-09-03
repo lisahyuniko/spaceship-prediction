@@ -1,8 +1,8 @@
-# Spaceship Titanic Passenger Transport Prediction
+# Spaceship Passenger Transport Prediction
 
 ## Overview
 
-This repository contains a machine learning project aimed at predicting whether passengers on the Spaceship Titanic would be transported to their destination in another dimension. The project utilizes a dataset consisting of personal records of passengers, with 13 variables including passenger information, cabin details, amenities usage, and more.
+This repository contains a machine learning project aimed at predicting whether passengers on the Spaceship would be transported to their destination in another dimension. The project utilizes a dataset consisting of personal records of passengers, with 13 variables including passenger information, cabin details, amenities usage, and more.
 
 The primary goal of this project is to develop a predictive model using XGBoost, a powerful gradient boosting algorithm, to determine whether a passenger would be transported to another dimension during the voyage. The model was trained on a substantial portion of the dataset, and its performance has been evaluated using systematic data preprocessing, hyperparameter tuning, and cross-validation techniques.
 
