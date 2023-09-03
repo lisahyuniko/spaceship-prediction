@@ -33,21 +33,3 @@ Feel free to review the slides for a more detailed overview of our project and f
 
 The selected XGBoost model has demonstrated high accuracy on the test set, indicating its potential for real-world predictions. The model's performance and feature importance have been visualized to aid in interpretation and understanding of the predictive results.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone this repository to your local machine.
-
-2. Install the required Python libraries listed in the "requirements.txt" file.
-
-3. Navigate to the "notebooks" directory and open the Jupyter notebooks to explore the data, preprocess it, train the model, and evaluate its performance.
-
-4. The trained model can be found in the "models" directory for future predictions or deployment.
-
-## Dependencies
-
-This project relies on several Python libraries, which are listed in the "requirements.txt" file. You can install them using pip:
-
-```bash
-pip install -r requirements.txt
