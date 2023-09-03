@@ -22,7 +22,7 @@ The project is organized as follows:
 
 - **presentation slides**:
 
-We have prepared a set of PowerPoint (PPT) slides for our group presentation on this project, which was delivered during the Data Science Programming class in summer 2023. You can access the presentation slides using the following link: - [Presentation Slides (PPT)](link-to-your-presentation)
+We have prepared a set of PowerPoint (PPT) slides for our group presentation on this project, which was delivered during the Data Science Programming class in summer 2023. You can access the presentation slides using the following link: - [Presentation Slides (PPT)]((https://github.com/lisahyuniko/spaceship-prediction/blob/main/ML_Spaceship_Titanic_Project%20Slides.pdf))
 
 Feel free to review the slides for a more detailed overview of our project and findings.
 
